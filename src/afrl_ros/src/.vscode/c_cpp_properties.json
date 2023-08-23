@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/taranto/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/taranto/catkin_ws/src/afrl_ros/afrl_ros/include/**",
+        "/home/taranto/catkin_ws/src/afrl_mavros/libmavconn/include/**",
+        "/home/taranto/catkin_ws/src/afrl_mavros/mavros/include/**",
+        "/home/taranto/catkin_ws/src/afrl_mavros/mavros_msgs/include/**",
+        "/home/taranto/catkin_ws/src/afrl_mavros/test_mavros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

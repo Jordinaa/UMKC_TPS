@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="main_entry_frag_label">Main Entry</string>
+    <string name="pti_duration_label">Enter test time in seconds</string>
+    <string name="velocity_label">Enter velocity of test in m/s</string>
+    <string name="pti_module_label">PTI Module</string>
+
+    <!-- Defined as name=variable name, then value of variable name-->
+    <string name="ip_address_label">Enter onsite computer IP address</string>
+    <string name="confirm_button">Confirm</string>
+
+    <!--PTI-->
+    <string name="go_button">Begin Test</string>
+    <string name="end_button">Rest/End Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="performance_module_label">performance</string>
+
+
+    <!---->
+    <string name="send_command_button">Send Command</string>
+
+
+</resources>
